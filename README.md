@@ -1,2 +1,2 @@
 # AppFindex
-Repositorio que contiene los archivod de la App de FINDEX
+Repositorio que contiene los archivos de la App de FINDEX
