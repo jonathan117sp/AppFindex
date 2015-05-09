@@ -4,15 +4,15 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>Agenda curso</name>
+<name>FINDEX</name>
 
 <description>
-FINDEX
+Aplicacion que da a conocer los distintos comercios de la ciudad
 </description>
 
 <author href="https://.example.com" email="you@example.com">
 Jonathan Jesus Lizcano Valenzuela
 </author>
 
-<preference name="phonegap-version" value="3.3.0" />
+<preference name="phonegap-version" value="3.7.0" />
 </widget>
